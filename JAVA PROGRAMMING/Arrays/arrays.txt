@@ -1,0 +1,9 @@
+int a[]  = new int[5];
+1) LHS = Datatype reference variable 
+It is done at compile time
+2) RHS = Creating the object in heap memory
+It is done at runtime i.e. Dynamic memory allocation
+means at runtime the memory is allocated 
+Heap objects are not continuos
+Hence array objects in java may not be continuos
+new keyword is used to create an object
